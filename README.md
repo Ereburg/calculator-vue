@@ -1,7 +1,7 @@
 # calculator-vue
 
 ### Links
-[GitHub Pages](https://github.com/Ereburg/calculator-vue/dist)
+[GitHub Pages](https://ereburg.github.io/calculator-vue/dist/)
 
 ## Project setup
 ```
