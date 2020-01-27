@@ -157,7 +157,15 @@ div {
     circle at center,
     var(--color-equal) 50%, transparent 50%);
   border-radius: 50%;
-  /* box-shadow: 3px 7px 1rem rgba(254, 110, 112, 0.432); */
+}
+
+@media screen and (max-width: 500px) {
+  .calculator {
+    height: 100%;
+    border-radius: 0;
+    box-shadow: none;
+
+  }
 }
 
 @media screen and (max-width: 360px) {
